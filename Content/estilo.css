@@ -1,0 +1,59 @@
+/* Tela de Login */
+
+body{
+    background-image: url(../Imagens/Brigde.jpg);
+    background-repeat: no-repeat;
+}
+
+.form-signin{
+    
+    width: 100%;
+    max-width: 450px;
+    padding: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20%;
+    color: white;
+    background: rgba(0, 0, 0, 0.5);
+}
+
+.form-text{
+    text-align: center;
+}
+
+.form-check button{
+    margin-left: 190px;
+}
+
+.form-register{
+    text-align: center;
+}
+
+/* Tela de cadastroLogin */
+
+.form-user i{
+    margin-left: 40%;
+    margin-bottom: 30px;
+    margin-top: 10px;
+    font-size: 100px;
+}
+
+.form-cadastro{
+    
+    width: 100%;
+    max-width: 450px;
+    padding: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+    color: white;
+    background: rgba(0, 0, 0, 0.5);
+}
+
+.form-button1{
+    margin-left: 40%;
+}
+
+.form-button2{
+    margin-left: 35%;
+}
